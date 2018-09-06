@@ -1,0 +1,12 @@
+1.pwd-open a new folder in home
+2.mkdir- creat new file under pwd
+3.ls- steps to get file 
+4.man - manual 
+5. comman name -option argument
+6.subl-new c
+7.save
+8.type python first open file
+9.not found any file enter cd 
+10.cd-move desirable file 
+11.gedit-direct open of txt
+
